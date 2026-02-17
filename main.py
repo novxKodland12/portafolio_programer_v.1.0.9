@@ -19,7 +19,7 @@ projects = [
         "description": "API ligera para operaciones CRUD sobre SQLite con endpoints organizados y buenas prácticas básicas.",
         "image": "img/python-project.png",
         "tags": ["Python", "Flask", "SQLite"],
-        "github_url": "https://github.com/usuario/api-rest-flask-sqlite",
+        "github_url": "https://github.com/novxKodland12/ambiental_calc_v1.2.0.git",
     },
     {
         "slug": "discord-bot-moderacion",
@@ -35,7 +35,7 @@ projects = [
         "description": "Sitio estático responsive con buenas prácticas de semántica, accesibilidad y performance.",
         "image": "img/html.png",
         "tags": ["HTML", "CSS"],
-        "github_url": "https://github.com/usuario/landing-estatica",
+        "github_url": "https://github.com/novxKodland12/widget_weather_v1.0.9.git",
     },
     {
         "slug": "reportes-sqlite-visualizacion",
@@ -43,7 +43,7 @@ projects = [
         "description": "Extracción de datos desde SQLite y generación de reportes con visualización ligera.",
         "image": "img/db.webp",
         "tags": ["Python", "SQLite"],
-        "github_url": "https://github.com/usuario/reportes-sqlite",
+        "github_url": "https://github.com/novxKodland12/bloc_Notas_v1.1.0.git",
     },
 ]
 
